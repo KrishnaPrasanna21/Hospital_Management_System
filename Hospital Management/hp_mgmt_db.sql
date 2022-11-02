@@ -269,7 +269,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES ('ak','12345'),('akash','123456'),('aksh','akash'),('anu','anu123'),('avit','akash'),('Manasa','123456');
+INSERT INTO `users` VALUES ('kp','12345'),('gkp','123456'),('aksh','akash'),('anu','anu123'),('avit','akash'),('Manasa','123456');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
